@@ -1,4 +1,5 @@
-### Hi there 👋
+![TheRouLetteBoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRouLetteBoi&show_icons=true&line_height=27&count_private=true&theme=tokyonight) ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRouLetteBoi&theme=tokyonight&langs_count=3)
+
 
 <!--
 **TheRouletteBoi/TheRouletteBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
