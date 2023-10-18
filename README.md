@@ -1,4 +1,5 @@
 ![TheRouLetteBoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRouLetteBoi&show_icons=true&line_height=27&count_private=true&theme=tokyonight) ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRouLetteBoi&theme=tokyonight&langs_count=3)
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=TheRouLetteBoi&theme=tokyonight&hide_border=false&card_width=467)
 
 
 <!--
